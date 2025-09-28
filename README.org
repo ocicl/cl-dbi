@@ -4,6 +4,6 @@ Database independent interface for Common Lisp.
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/fukamachi/cl-dbi.git   |
-| commit  | 3d4f435                                       |
+| commit  | be4df4f                                       |
 | systems | dbi cl-dbi dbd-mysql dbd-postgres dbd-sqlite3 |
 |---------+-----------------------------------------------|
